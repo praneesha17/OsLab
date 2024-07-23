@@ -3,6 +3,7 @@ To Create a CPU Scheduling algorithms [FCFS{First come first serve}]
 
 # program file
 ![program file](FCFS.java)
+![program file2](Process.java)
 
 # Sample output
 ![Expected Output](https://github.com/user-attachments/assets/3fce46c4-8f83-4a52-9ea0-36ae4c26e29d)
