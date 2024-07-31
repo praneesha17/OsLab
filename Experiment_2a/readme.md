@@ -9,5 +9,4 @@ To Create a CPU Scheduling algorithms [Round Robin]
 
 
 # Tested output
-![Executed Output](![Executed_input_output_573](https://github.com/user-attachments/assets/eb557dc8-5ef5-4e83-a45d-76a8a7d7a993)
-)
+![Executed Output](https://github.com/praneesha17/OsLab/blob/main/Experiment_2a/Executed_input_output_573.png?raw=true)
