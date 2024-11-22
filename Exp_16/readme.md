@@ -1,11 +1,11 @@
 #SEQUENTIAL FILE ORGANIZATION
 
 # program file
-![program file](Sequential_code.jpeg)
-![program file](SequentialFile.c)
+![program file](PROGRAM.png)
+![program file](SEQUENTIAL.c)
 
 # sample output
-![sample output](Sequential_IO_.jpeg)
+![sample output](OUTPUT.png)
 
 # tested output
 ![tested output](Sequential_EO.jpeg)
